@@ -1,2 +1,2 @@
 alert("fine")
-console.log("hi)
+console.log("hi")
